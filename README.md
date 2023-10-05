@@ -49,53 +49,7 @@ sudo yum install mysql-community-server
 https://docs.oracle.com/goldengate/1212/gg-winux/GDRAD/java.htm#BGBFJHAB
 
 
-## Import MySql Table Sql 
 
-位置 : SpringBoot-mall\SpringBootMall\MySqlTable    SpringMall.sql
-
-
-![image](https://github.com/sdonline13/SpringBoot-mall/assets/50354880/8765b272-6e8d-4db7-90af-8db778ec74a1)
-
-
-### 預設Mysql帳號
-     帳號: root
-     密碼: password
-
-## Usage 
-
-### 使用命令提示列開啟 SpringBootMall-0.0.1-SNAPSHOT.jar
- 
-### 位置 : SpringBoot-mall\Builds
-
- ```sh
-java -jar SpringBootMall-0.0.1-SNAPSHOT.jar
-```
-
- 
- ![image](https://github.com/sdonline13/SpringBoot-mall/assets/50354880/85d22d26-da0e-4ddd-97fa-9d492beb39bc)
-
- 
-<!--  ## 開啟 Swagger  :   http://localhost:8080/swagger-ui/index.html#/
- 
- 
- 
- ![image](https://github.com/sdonline13/SpringBoot-mall/assets/50354880/1ee85a2c-04b1-4e6a-8f02-602c5c0f52fe) -->
-
-###  登入
-![image](https://github.com/sdonline13/SpringBoot-mall/assets/50354880/352f0fdc-c681-4617-8515-d915bdc15193)
-
-###  取得訂單資訊
-![image](https://github.com/sdonline13/SpringBoot-mall/assets/50354880/f9ca66a1-2daa-4d60-a3d9-0cb03719ea53)
-
-###  創立訂單
-![image](https://github.com/sdonline13/SpringBoot-mall/assets/50354880/6cf54c78-856b-49be-9460-9ac5248b2b56)
-
- ### 測試用帳號
-     帳號: user1@gmail.com
-     密碼: user1
-     
-     帳號: user2@gmail.com
-     密碼: user2
 
 ## Contributing
 
