@@ -20,6 +20,7 @@
 ## 使用版本:
 ### * Spring boot 3.0.6
 ### * Spring Security 6.0
+### * MyBatis 2.3.1
 ![](header.png)
 
 ## Installation
